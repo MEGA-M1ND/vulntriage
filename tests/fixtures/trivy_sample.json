@@ -1,0 +1,5 @@
+{"ArtifactName": "demo-app:latest", "Results": [{"Target": "demo", "Vulnerabilities": [
+ {"VulnerabilityID": "CVE-2021-44228", "PkgName": "log4j-core", "InstalledVersion": "2.14.1", "FixedVersion": "2.17.1", "Severity": "CRITICAL", "Title": "Log4Shell", "CVSS": {"nvd": {"V3Score": 10.0}}},
+ {"VulnerabilityID": "CVE-2022-0001", "PkgName": "examplelib", "InstalledVersion": "1.0", "FixedVersion": "", "Severity": "LOW", "Title": "Minor issue"},
+ {"VulnerabilityID": "CVE-2021-44228", "PkgName": "log4j-core", "InstalledVersion": "2.14.1", "FixedVersion": "2.17.1", "Severity": "CRITICAL", "Title": "dup"}
+]}]}
